@@ -1,0 +1,8 @@
+{
+  "workspace": {
+    "name": "My New Testing Workspace",
+    "type": "personal",
+    "description": "My empty workspace to training sending post request",
+    "visibility": "personal"
+  }
+}
